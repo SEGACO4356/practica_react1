@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-code-snippets": "^0.0.16",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.4.4"
+  }
+}
